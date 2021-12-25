@@ -199,4 +199,4 @@ async def bot_info(bot, message):
             InlineKeyboardButton('Video', url=f'{TUTORIAL}')
         ]
         ]
-    await message.reply(text=f"<b>Developer : <a /index  {Collections of all Files and Videos}.</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nChannel : <a href='https://t.me/Baby_xD'>Cartoon</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+    await message.reply(text=f"<b>cmds : <a /index  {Collections of all Files and Videos}.</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nChannel : <a href='https://t.me/Baby_xD'>Cartoon</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
